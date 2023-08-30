@@ -81,12 +81,7 @@ hr{
     margin: 40px auto 60px;
 }
 .btn {
-    background: #1ea0f7;
-    background-image: -webkit-linear-gradient(top, #17d2df, #57d4fa);
-    background-image: -moz-linear-gradient(top, #35e8f5, #44e4fd);
-    background-image: -ms-linear-gradient(top, #15e1ec, #4ee0f3);
-    background-image: -o-linear-gradient(top, #48d3ec, #35d5e3);
-    background-image: linear-gradient(to bottom, #10d2f9, #1fcfea);
+    background: #66BFBF;
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
