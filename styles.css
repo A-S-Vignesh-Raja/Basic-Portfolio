@@ -81,7 +81,12 @@ hr{
     margin: 40px auto 60px;
 }
 .btn {
-    background: #66BFBF;
+    background: #3cfcef;
+    background-image: -webkit-linear-gradient(top, #3cfcef, #3497d9);
+    background-image: -moz-linear-gradient(top, #3cfcef, #3497d9);
+    background-image: -ms-linear-gradient(top, #3cfcef, #3497d9);
+    background-image: -o-linear-gradient(top, #3cfcef, #3497d9);
+    background-image: linear-gradient(to bottom, #3cfcef, #3497d9);
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
     border-radius: 8px;
@@ -92,12 +97,7 @@ hr{
     text-decoration: none;
   }  
   .btn:hover {
-    background: #3cfcef;
-    background-image: -webkit-linear-gradient(top, #3cfcef, #3497d9);
-    background-image: -moz-linear-gradient(top, #3cfcef, #3497d9);
-    background-image: -ms-linear-gradient(top, #3cfcef, #3497d9);
-    background-image: -o-linear-gradient(top, #3cfcef, #3497d9);
-    background-image: linear-gradient(to bottom, #3cfcef, #3497d9);
+    opacity:0.5;
     text-decoration: none;
   }
   a{
